@@ -1,0 +1,31 @@
+So, you want to create a GitHub Website Portfolio…
+
+The first thing to do is to go to GitHub:
+https://github.com
+If there’s a silhouette of an Octocat in the corner of the screen, you’re probably in the right place.
+
+Once there, sign up for GitHub.  All you needs is: email, password and username.
+
+Once you take care of the email verification, you will have a brand new GitHub account.  Congratulations!
+
+Now you’re going to want to create a repository.  
+Go to the “Repositories” tab, and click “New” (Look for the green button on the right side of the screen).
+
+Name your repository.
+
+Now you need something to put into the repository. 
+
+Using an editor of your choice create a HTML file.
+
+If you need an editor, one option is Visual Studio Code, which I used for my first GitHub webpage, which can be downloaded here: 
+https://code.visualstudio.com
+
+If you want to learn about how to create a HTML file, you may want to check out this resource: 
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+Once you have created the files you need, then you can then add them to your repository, and commit the changes.  
+
+You have now created a GitHub Website Portfolio!
+
+#softwaredevelopment
+#github
